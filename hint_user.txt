@@ -1,0 +1,636 @@
+
+Stage : 1
+
+Tips
+	Remain	: 28
+	Text	: "________________________________________________"
+	Pos		: -24, 115
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "------------------------------------------------"
+	Pos		: -24, 136
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "-"
+	Pos		: 0, 136
+	Count	: 0
+	Base	: center
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 50, 50
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 27
+	Text	: "o"
+	Pos		: 6, 333
+	Count	: 100
+	Base	: mboss_1
+	Align	: center
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 27
+	Text	: "o"
+	Pos		: 6, 445
+	Count	: 100
+	Base	: mboss_1
+	Align	: center
+	Time	: 300
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "21.76ペース参考：2732万"
+	Pos		: 0, 50
+	Count	: 800
+	Base	: boss_card_2
+	Align	: center
+	Time	: 500
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "信仰:268320"
+	Pos		: 0, 65
+	Count	: 800
+	Base	: boss_card_2
+	Align	: center
+	Time	: 500
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+
+StageEnd
+# ================================== 
+Stage : 2
+
+Tips
+	Remain	: 28
+	Text	: "________________________________________________"
+	Pos		: -24, 115
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "------------------------------------------------"
+	Pos		: -24, 136
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+
+Tips
+	Remain	: 28
+	Text	: "-"
+	Pos		: 0, 136
+	Count	: 0
+	Base	: center
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 50, 50
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "21.76ペース参考：1.10億"
+	Pos		: 0, 50
+	Count	: 1600
+	Base	: boss_card_2
+	Align	: center
+	Time	: 750
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "信仰:534620"
+	Pos		: 0, 65
+	Count	: 1600
+	Base	: boss_card_2
+	Align	: center
+	Time	: 750
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+
+StageEnd
+# ================================== 
+Stage : 3
+
+Tips
+	Remain	: 28
+	Text	: "________________________________________________"
+	Pos		: -24, 115
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "------------------------------------------------"
+	Pos		: -24, 136
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "-"
+	Pos		: 0, 136
+	Count	: 0
+	Base	: center
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 50, 50
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "o"
+	Pos		: 0, 266
+	Count	: 3030
+	Base	: start
+	Align	: center
+	Time	: 600
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 1.0
+End
+
+
+Tips
+	Remain	: 30
+	Text	: "|"
+	Pos		: 27, 320
+	Count	: 7030
+	Base	: start
+	Align	: center
+	Time	: 1000
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 100.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "|"
+	Pos		: 38, 320
+	Count	: 7030
+	Base	: start
+	Align	: center
+	Time	: 1000
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 100.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "|"
+	Pos		: 27, 250
+	Count	: 7030
+	Base	: start
+	Align	: center
+	Time	: 1000
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 100.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "|"
+	Pos		: 38, 250
+	Count	: 7030
+	Base	: start
+	Align	: center
+	Time	: 1000
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 100.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "21.76ペース参考：2.41億"
+	Pos		: 0, 50
+	Count	: 8031
+	Base	: start
+	Align	: center
+	Time	: 400
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "信仰：940000"
+	Pos		: 0, 65
+	Count	: 8031
+	Base	: start
+	Align	: center
+	Time	: 400
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "21.76ペース参考：3.20億"
+	Pos		: 0, 50
+	Count	: 700
+	Base	: boss_card_3
+	Align	: center
+	Time	: 700
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "信仰:988290"
+	Pos		: 0, 65
+	Count	: 700
+	Base	: boss_card_3
+	Align	: center
+	Time	: 700
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+StageEnd
+# ================================== 
+Stage : 4
+
+Tips
+	Remain	: 28
+	Text	: "________________________________________________"
+	Pos		: -24, 115
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "------------------------------------------------"
+	Pos		: -24, 136
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+
+
+Tips
+	Remain	: 28
+	Text	: "-"
+	Pos		: 0, 136
+	Count	: 0
+	Base	: center
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 50, 50
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 27
+	Text	: "21.76ペース参考：6.25億"
+	Pos		: 0, 50
+	Count	: 4900
+	Base	: mboss_1
+	Align	: center
+	Time	: 450
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+
+
+Tips
+	Remain	: 29
+	Text	: "21.76ペース参考：7.43億"
+	Pos		: 0, 50
+	Count	: 940
+	Base	: boss_card_4
+	Align	: center
+	Time	: 400
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+
+
+StageEnd
+# ================================== 
+
+Stage : 5
+
+Tips
+	Remain	: 28
+	Text	: "________________________________________________"
+	Pos		: -24, 115
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "------------------------------------------------"
+	Pos		: -24, 136
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 15000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "-"
+	Pos		: 0, 136
+	Count	: 0
+	Base	: center
+	Align	: center
+	Time	: 10000000
+	Alpha	: 180
+	Color	: 128, 50, 50
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "3"
+	Pos		: 138, 129
+	Count	: 2443
+	Base	: start
+	Align	: center
+	Time	: 60
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "2"
+	Pos		: 138, 129
+	Count	: 2503
+	Base	: start
+	Align	: center
+	Time	: 60
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "1"
+	Pos		: 138, 129
+	Count	: 2563
+	Base	: start
+	Align	: center
+	Time	: 60
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "0"
+	Pos		: 138, 129
+	Count	: 2623
+	Base	: start
+	Align	: center
+	Time	: 10
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+
+Tips
+	Remain	: 30
+	Text	: "21.76ペース参考：11.75億"
+	Pos		: 0, 50
+	Count	: 7800
+	Base	: start
+	Align	: center
+	Time	: 400
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+
+
+Tips
+	Remain	: 30
+	Text	: "21.76ペース参考：13.03億"
+	Pos		: 0, 50
+	Count	: 800
+	Base	: boss_card_4
+	Align	: center
+	Time	: 450
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+
+StageEnd
+# ================================== 
+Stage : 6
+
+Tips
+	Remain	: 28
+	Text	: "________________________________________________"
+	Pos		: -24, 115
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 120000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 28
+	Text	: "------------------------------------------------"
+	Pos		: -24, 136
+	Count	: 0
+	Base	: left
+	Align	: center
+	Time	: 120000
+	Alpha	: 180
+	Color	: 128, 128, 128
+	Scale	: 1.0
+End
+
+
+
+Tips
+	Remain	: 28
+	Text	: "-"
+	Pos		: 0, 136
+	Count	: 0
+	Base	: center
+	Align	: center
+	Time	: 120000
+	Alpha	: 180
+	Color	: 128, 50, 50
+	Scale	: 1.0
+End
+
+Tips
+	Remain	: 20
+	Text	: "3"
+	Pos		: 150, 127
+	Count	: 2239
+	Base	: start
+	Align	: center
+	Time	: 60
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+Tips
+	Remain	: 20
+	Text	: "2"
+	Pos		: 150, 127
+	Count	: 2299
+	Base	: start
+	Align	: center
+	Time	: 60
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+Tips
+	Remain	: 20
+	Text	: "1"
+	Pos		: 150, 127
+	Count	: 2359
+	Base	: start
+	Align	: center
+	Time	: 60
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+Tips
+	Remain	: 20
+	Text	: "0"
+	Pos		: 150, 127
+	Count	: 2419
+	Base	: start
+	Align	: center
+	Time	: 20
+	Alpha	: 255
+	Color	: 255, 128, 128
+	Scale	: 10.0
+End
+
+Tips
+	Remain	: 30
+	Text	: "21.76ペース参考：14.57億"
+	Pos		: 0, 50
+	Count	: 3700
+	Base	: start
+	Align	: center
+	Time	: 700
+	Alpha	: 255
+	Color	: 255, 255, 255
+	Scale	: 1.0
+End
+StageEnd
